@@ -34,25 +34,37 @@ You’ll find this post in your **`_posts`** directory. Go ahead and edit it and
 
 ---
 
-#title
+# TITLE:title
 
-##title
 
-###title
+# title
 
-####title
 
-#####title
+## title
 
-######title
+
+### title
+
+
+#### title
+
+
+##### title
+
+
+###### title
+
 
 #title# 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+
 ## title
 
+
 ### CUIDADO: título de tamanho h3
+
 
 Jekyll also offers powerful support for code snippets:
 
@@ -103,9 +115,13 @@ print_hi('Tom')
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 references: 
+
 * https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
+
 * https://keybase.io/
+
 * http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
+
 * http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
  
 
