@@ -34,17 +34,17 @@ You’ll find this post in your **`_posts`** directory. Go ahead and edit it and
 
 ---
 
-# title
+#title
 
-## title
+##title
 
-### title
+###title
 
-#### title
+####title
 
-##### title
+#####title
 
-###### title
+######title
 
 #title# 
 
@@ -52,7 +52,7 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 ## title
 
-### CUIDADO: isso pode dar merda
+### CUIDADO: título de tamanho h3
 
 Jekyll also offers powerful support for code snippets:
 
