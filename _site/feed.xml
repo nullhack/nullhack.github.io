@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>nullHack/{blog}</title>
+    <description>Just a blog to talk about things I like. If you want to read good tutorials, thoughts, tips and tricks about computers, free software or photography. this is your place \0.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Feb 2016 16:53:38 -0200</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2016 16:53:38 -0200</lastBuildDate>
+    <link>http://nullhack.github.io/</link>
+    <atom:link href="http://nullhack.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 01 Feb 2016 20:31:07 -0200</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 20:31:07 -0200</lastBuildDate>
     <generator>Jekyll v3.1.1</generator>
     
       <item>
@@ -43,23 +43,37 @@ summary: “Tags provide another means of navigation for your content. Unlike th
 
 &lt;hr /&gt;
 
+&lt;h1 id=&quot;titletitle&quot;&gt;TITLE:title&lt;/h1&gt;
+
+&lt;p&gt;asdasd asda sd asd&lt;/p&gt;
+
 &lt;h1 id=&quot;title&quot;&gt;title&lt;/h1&gt;
+
+&lt;p&gt;adasdasdasd&lt;/p&gt;
 
 &lt;h2 id=&quot;title-1&quot;&gt;title&lt;/h2&gt;
 
+&lt;p&gt;asdasdasd&lt;/p&gt;
+
 &lt;h3 id=&quot;title-2&quot;&gt;title&lt;/h3&gt;
+
+&lt;p&gt;asdasasd&lt;/p&gt;
 
 &lt;h4 id=&quot;title-3&quot;&gt;title&lt;/h4&gt;
 
+&lt;p&gt;asdasdasd&lt;/p&gt;
+
 &lt;h5 id=&quot;title-4&quot;&gt;title&lt;/h5&gt;
+
+&lt;p&gt;asdasdad&lt;/p&gt;
 
 &lt;h6 id=&quot;title-5&quot;&gt;title&lt;/h6&gt;
 
-&lt;h1 id=&quot;title-6&quot;&gt;title&lt;/h1&gt;
+&lt;p&gt;asdasda&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
-&lt;h2 id=&quot;title-7&quot;&gt;title&lt;/h2&gt;
+&lt;h2 id=&quot;title-6&quot;&gt;title&lt;/h2&gt;
 
 &lt;h3 id=&quot;cuidado-ttulo-de-tamanho-h3&quot;&gt;CUIDADO: título de tamanho h3&lt;/h3&gt;
 
@@ -130,16 +144,27 @@ B4EyxhxXvJk/+MbfF4jI8oP+fAWjMjuDx2N7wAAAAABJRU5ErkJggg==
 
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;references: 
-* https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
-* https://keybase.io/
-* http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
-* http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960&lt;/p&gt;
+&lt;p&gt;references:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;https://keybase.io/&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 </description>
         <pubDate>Mon, 01 Feb 2016 02:13:12 -0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2016/02/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2016/02/01/welcome-to-jekyll.html</guid>
+        <link>http://nullhack.github.io/jekyll/update/2016/02/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://nullhack.github.io/jekyll/update/2016/02/01/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
