@@ -102,7 +102,12 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-references:
+references: 
+* https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
+* https://keybase.io/
+* http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
+* http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
+ 
 
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
