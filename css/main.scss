@@ -1,0 +1,137 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$base-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "layout",
+        "syntax-highlighting"
+;
+
+
+//message styles
+.info, .success, .warning, .error, .validation {
+	border: 1px solid;
+	border-radius: 10px;
+	margin: 10px 0px;
+	padding:15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+}
+
+.info {
+	color: #00529B;
+	background-color: #BDE5F8;
+	background-image: url('info.png');
+}
+.success {
+	color: #4F8A10;
+	background-color: #DFF2BF;
+	background-image:url('success.png');
+}
+.warning {
+	color: #9F6000;
+	background-color: #FEEFB3;
+	background-image: url('warning.png');
+}
+.error {
+	color: #D8000C;
+	background-color: #FFBABA;
+	background-image: url('error.png');
+}
+
+
+//programming styles
+.bash, .python, .cpp {
+	border: 1px solid;
+	font-weight: bold;
+	border-radius: 20px 0px 0px 0px;
+	padding:15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 0px center;
+	background-size: 50px 50px;
+}
+.bash {
+	color: #FFFFFF;
+	background-color: #000000;
+	background-image: url('bash.png');
+}
+.python {
+	color: #000000;
+	background-color: #FFFFFF;
+	background-image: url('python.png');
+}
+.cpp {
+	color: #FFFFFF;
+	background-color: #444444;
+	background-image: url('cpp.png');
+}
+
+
+//title styles
+.summary, .objectives {
+	border: 1px solid;
+	border-radius: 10px 0px 10px 10px;
+	margin: 10px 0px;
+	padding:15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 0px center;
+	background-size: 70px 70px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.summary {
+	color: #FFFFFF;
+	background-color: #666666;
+	background-image: url('summary.png');
+}
+.objectives {
+	color: #FFFFFF;
+	background-color: #FF9900;
+	background-image: url('objectives.png');
+}
