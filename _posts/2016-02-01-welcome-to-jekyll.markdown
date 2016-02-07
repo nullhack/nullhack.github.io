@@ -11,7 +11,7 @@ audience: writer, designer
 tags: [navigation]
 last_updated: November 30, 2015
 keywords: tags, navigation, buttons, links, association
-summary: "Tags provide another means of navigation for your content. Unlike the table of contents, tags can show the content in a variety of arrangements and groupings. Implementing tags in this Jekyll theme is somewhat of a manual process."
+summary: "Tags provide another means of navigation for your content. Unlike the table of contents, tags can show the content in a variety of a <div id='id-section1'/> ## Section 1 <div id='id-section2'/> ## Sectionrrangements and groupings. Implementing tags in this Jekyll theme is somewhat of a manual process."
 
 
 
@@ -21,7 +21,11 @@ You’ll find this post in your **`_posts`** directory. Go ahead and edit it and
 
 
 
+# My Table of content 
 
+- [Section 1](#id-section1)
+
+- [Section 2](#id-section2)
 ---
 
 * ad
@@ -76,7 +80,13 @@ Jekyll also offers powerful support for code snippets:
 
 > **DICA:** esse texto pode ser usado como uma dica
 
+ <div id='id-section1'/> 
 
+## Section 1 
+
+<div id='id-section2'/> 
+
+## Section 2
 
 <div class="info">Info message</div>
 
@@ -85,6 +95,7 @@ Jekyll also offers powerful support for code snippets:
 <div class="warning">Warning message</div>
 
 <div class="error">Error message</div>
+
 
 
 <div class="bash">Bash</div>
