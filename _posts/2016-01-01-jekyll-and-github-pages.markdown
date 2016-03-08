@@ -1,0 +1,148 @@
+---
+layout: post
+title:  "Jekyll+github pages"
+date:   2016-01-01 02:13:12 -0200
+categories: [jekyll, github]
+audience: bloggers, programmers, githubers
+tags: [tutorial, jekyll, github-pages]
+last_updated: March 8, 2016
+keywords: jekyll, github, tutorial
+summary: "A simple tutorial about using jekyll and github pages"
+---
+
+<div class="objectives">RESUMO: asd asd asd asd as das dasd asd</div>
+
+Just objectives...
+
+
+<div class="summary">RESUMO: asd asd asd asd as das dasd asd</div>
+
+You’ll find this post in your **`_posts`** directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+
+
+# My Table of content 
+
+- [Section 1](#id-section1)
+
+- [Section 2](#id-section2)
+---
+
+* ad
+
+* asd
+
+* asd
+
+* asd
+
+---
+
+# TITLE:title
+
+asdasd asda sd asd
+
+# title
+
+adasdasdasd
+
+## title
+
+asdasdasd
+
+### title
+
+asdasasd
+
+#### title
+
+asdasdasd
+
+##### title
+
+asdasdad
+
+###### title
+
+asdasda 
+
+
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+
+
+## title
+
+
+### CUIDADO: título de tamanho h3
+
+
+Jekyll also offers powerful support for code snippets:
+
+> **DICA:** esse texto pode ser usado como uma dica
+
+ <div id='id-section1'/> 
+
+## Section 1 
+
+<div id='id-section2'/> 
+
+## Section 2
+
+<div class="info">Info message</div>
+
+<div class="success">Successful operation message</div>
+
+<div class="warning">Warning message</div>
+
+<div class="error">Error message</div>
+
+
+
+<div class="bash">Bash</div>
+{% highlight bash %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
+<div class="cpp">CPP</div>
+{% highlight bash %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+
+<div class="python">Python</div>
+{% highlight python linenos=table %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+{% include icon-flickr.svg %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+references: 
+
+* https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
+
+* https://keybase.io/
+
+* http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
+
+* http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
+ 
+
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
