@@ -18,4 +18,4 @@ github_username:  nullhack
 flickr_username:  eric-lopes
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet

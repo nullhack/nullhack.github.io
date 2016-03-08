@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-02-01 02:13:12 -0200
-categories: [jekyll, update]
+title:  "Jekyll+github pages"
+date:   2016-01-01 02:13:12 -0200
+categories: [jekyll, github]
+audience: bloggers, programmers, githubers
+tags: [tutorial, jekyll, github-pages]
+last_updated: March 8, 2016
+keywords: jekyll, github, tutorial
+summary: "A simple tutorial about using jekyll and github pages"
 ---
 
 <div class="objectives">RESUMO: asd asd asd asd as das dasd asd</div>
-title: Tags
-audience: writer, designer
-tags: [navigation]
-last_updated: November 30, 2015
-keywords: tags, navigation, buttons, links, association
-summary: "Tags provide another means of navigation for your content. Unlike the table of contents, tags can show the content in a variety of a <div id='id-section1'/> ## Section 1 <div id='id-section2'/> ## Sectionrrangements and groupings. Implementing tags in this Jekyll theme is somewhat of a manual process."
 
+Assumindo que você já tenha baixado e instalado [Ruby](https://www.ruby-lang.org/pt/documentation/installation/) e [Rubygems](https://rubygems.org/pages/download) e que você tenha uma conta no [github](https://github.com/) é possível seguir passos que descreverei a seguir, para criar um blog particular e customizável, sem necessidade de entender (muito) de programação. 
 
 
 <div class="summary">RESUMO: asd asd asd asd as das dasd asd</div>
