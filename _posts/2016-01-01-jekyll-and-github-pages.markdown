@@ -13,7 +13,7 @@ summary: "A simple tutorial about using jekyll and github pages"
 <div class="objectives">Direto ao ponto</div>
 
 Este tutorial é destinado a usuários GNU/Linux com pouca experiência, que querem criar seu próprio blog.
-Estou assumindo que você já tenha baixado e instalado [Ruby](https://www.ruby-lang.org/pt/documentation/installation/), [Rubygems](https://rubygems.org/pages/download), que você tenha uma conta no [github](https://github.com/) com nome de usuário '**GITHUBUSER**' e o programa [git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git) instalado, assim é possível seguir passos que descreverei a seguir para criar um blog particular e customizável, sem precisar ser um expert em programação.
+Estou assumindo que você já tenha baixado e instalado [Ruby](https://www.ruby-lang.org/pt/documentation/installation/), [Rubygems](https://rubygems.org/pages/download), que você tenha uma conta no [github](https://github.com/) com nome de usuário '**GITHUBUSER**' além do programa [git](https://git-scm.com/book/pt-br/v1/Primeiros-passos-Instalando-Git) instalado, assim é possível seguir passos que descreverei a seguir para criar um blog particular e customizável, sem precisar ser um expert em programação.
 O guia completo sobre jekyll também pode ser encontrado [aqui](https://jekyllrb.com/docs/installation/). 
 
 Comece no terminal digitando o seguinte comando:
@@ -33,7 +33,7 @@ git commit -m "First commit"
 git push
 ```
 
-Basta digitar seu usuário e senha no github, quando o processo terminar, seu blog estará disponível no endereço `http://GITHUBUSER.github.io`
+Basta digitar seu usuário e senha do github e quando o processo terminar, seu blog estará disponível no endereço `http://GITHUBUSER.github.io`
 
 Parabéns, seu primeiro blog está criado =D
 
@@ -61,8 +61,10 @@ Para mais informações, leia a postagem completa!
 <div id='resumo'/> 
 ## Resumo
 
+
 <div id='jekyll'/> 
 ## Jekyll
+
 
 <div id='github'/> 
 ## Github
