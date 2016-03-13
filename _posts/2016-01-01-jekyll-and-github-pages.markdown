@@ -59,10 +59,12 @@ Para mais informações, leia a postagem completa!
 ---
 
 <div id='resumo'/> 
+
 ## Resumo
 
 
 <div id='jekyll'/> 
+
 ## Jekyll
 
 
