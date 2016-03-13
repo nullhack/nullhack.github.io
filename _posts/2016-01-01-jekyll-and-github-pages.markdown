@@ -150,7 +150,7 @@ A tag `<div class="summary">Mensagem</div>` pode ser útil para criar cabeçalho
 
 Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamente desta aqui:
 
-![INFO](https://github.com/nullhack/nullhack.github.io/blob/master/css/info.png)
+![INFO]({{ site.url }}/css/info.png)
 
 ---
 
