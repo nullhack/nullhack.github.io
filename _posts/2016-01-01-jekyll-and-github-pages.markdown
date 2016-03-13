@@ -86,6 +86,57 @@ Para mais informações, leia a postagem completa!
 <div id='melhorando'></div>
 ### Melhorando a experiência do usuário utilizando CSS 
 
+Para criar tags personalizadas, podemos alterar o arquivo `GITHUBUSER.github.io/css/main.scss`. Neste projeto, foram adicionadas algumas linhas para criar cabe
+
+
+```css
+
+//message styles
+.info {
+	border: 1px solid;
+	border-radius: 10px;
+	margin: 10px 0px;
+	padding:15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 10px center;
+	color: #00529B;
+	background-color: #BDE5F8;
+	background-image: url('info.png');
+}
+
+
+//programming styles
+.bash {
+	border: 1px solid;
+	font-weight: bold;
+	border-radius: 20px 0px 0px 0px;
+	padding:15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 0px center;
+	background-size: 50px 50px;
+	color: #FFFFFF;
+	background-color: #000000;
+	background-image: url('bash.png');
+}
+
+//title styles
+.summary {
+	border: 1px solid;
+	border-radius: 10px 0px 10px 10px;
+	margin: 10px 0px;
+	padding:15px 10px 15px 50px;
+	background-repeat: no-repeat;
+	background-position: 0px center;
+	background-size: 70px 70px;
+	font-weight: bold;
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #666666;
+	background-image: url('summary.png');
+}
+```
+
+---
 
 <div class="info">Info message</div>
 
