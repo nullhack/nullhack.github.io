@@ -5,7 +5,7 @@ date:   2016-01-01 02:13:12 -0200
 categories: [jekyll, github]
 audience: bloggers, programmers, githubers
 tags: [tutorial, jekyll, github-pages]
-last_updated: March 8, 2016
+last_updated: March 13, 2016
 keywords: jekyll, github, tutorial
 summary: "A simple tutorial about using jekyll and github pages"
 ---
@@ -40,7 +40,7 @@ Parabéns, seu primeiro blog está criado =D
 Para mais informações, leia a postagem completa!
 
 
-<div class="summary">Jekyll+github pages: Criando blogs estáticos e simples de configurar</div>
+<div class="summary">Jekyll+github pages: criando blogs estáticos e simples de configurar</div>
 
 
 
@@ -86,7 +86,7 @@ Para mais informações, leia a postagem completa!
 <div id='melhorando'></div>
 ### Melhorando a experiência do usuário utilizando CSS 
 
-Para criar tags personalizadas, podemos alterar o arquivo `GITHUBUSER.github.io/css/main.scss`. Neste projeto, foram adicionadas algumas linhas para criar cabe
+Para criar tags personalizadas, podemos alterar o arquivo `GITHUBUSER.github.io/css/main.scss`. Abaixo, estão alguns exemplos de folha de estilos para criação de algumas TAGs personalizadas utilizadas nesta página:
 
 
 ```css
@@ -136,55 +136,25 @@ Para criar tags personalizadas, podemos alterar o arquivo `GITHUBUSER.github.io/
 }
 ```
 
----
+Utilizando a tag `<div class="info">Info message</div>`
+<div class="info">O resultado é esta barra informativa!</div>
 
-<div class="info">Info message</div>
-
-<div class="success">Successful operation message</div>
-
-<div class="warning">Warning message</div>
-
-<div class="error">Error message</div>
-
-
-
+Utilizando a tag `<div class="bash">Bash</div>`
 <div class="bash">Bash</div>
-```bash
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-```
+Criamos uma barra informativa que pode ser útil para identificar linhas de código.
 
+A tag `<div class="summary">Mensagem</div>` pode ser útil para criar Títulos personalizados, como abaixo:
+<div class="bash">Insira um título criativo aqui!  =D</div>
 
-<div class="cpp">CPP</div>
-```bash
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-```
-
-
-<div class="python">Python</div>
-```python
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-```
+Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamente desta aqui > ![INFO](https://github.com/nullhack/nullhack.github.io/blob/master/css/info.png)
+---
 
 
 ## references: 
 
-* [Jekyll Talk][jekyll-talk]
 * https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
-* https://keybase.io/
 * http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
 * http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
  
 
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[icons-knob]:http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
