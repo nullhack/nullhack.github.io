@@ -148,18 +148,18 @@ Criamos uma barra informativa que pode ser útil para identificar linhas de cód
 A tag `<div class="summary">Mensagem</div>` pode ser útil para criar cabeçalhos personalizados como abaixo:
 <div class="summary"> Insira um título criativo aqui!  =D</div>
 
-Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamente desta aqui:
-
-![INFO]({{ site.url }}/css/info.png)
+Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamente aqui: ![INFO]({{ site.url }}/css/info.png) ![SUCCESS]({{ site.url }}/css/success.png) ![WARNING]({{ site.url }}/css/warning.png) ![ERROR]({{ site.url }}/css/error.png)
 
 ---
 
-
 ## references: 
 
-* https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
-* http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
+* [https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/][github-pages-markdown]
+* [http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/][css-messages]
 * [http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960][icons-knob]
  
+---
 
+[github-pages-markdown]: https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
+[css-messages]: http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
 [icons-knob]:http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
