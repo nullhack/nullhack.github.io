@@ -58,8 +58,7 @@ Para mais informações, leia a postagem completa!
 
 ---
 
-<div id='resumo'/> 
-
+<div id='resumo'></div> 
 ## Resumo
 
 
@@ -99,43 +98,38 @@ Para mais informações, leia a postagem completa!
 
 
 <div class="bash">Bash</div>
-{% highlight bash %}
+```bash
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-{% endhighlight %}
+```
 
 
 <div class="cpp">CPP</div>
-{% highlight bash %}
+```bash
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-{% endhighlight %}
+```
 
 
 <div class="python">Python</div>
-{% highlight python linenos=table %}
+```python
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-{% endhighlight %}
+```
 
-{% include icon-flickr.svg %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+## references: 
 
-references: 
-
+* [Jekyll Talk][jekyll-talk]
 * https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
-
 * https://keybase.io/
-
 * http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
-
 * http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
  
 
