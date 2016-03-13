@@ -63,89 +63,30 @@ Para mais informações, leia a postagem completa!
 ## Resumo
 
 
-<div id='jekyll'/> 
-
+<div id='jekyll'></div> 
 ## Jekyll
 
 
-<div id='github'/> 
+<div id='github'></div>
 ## Github
 
-<div id='github-pages'/> 
+<div id='github-pages'></div> 
 ## Github Pages
 
 ## Criando, configurando e mantendo seu próprio blog
 
-<div id='criando'/> 
+<div id='criando'></div>
 ### Instalando programas e criando um blog
 
-<div id='configurando'/> 
+<div id='configurando'></div> 
 ### Configurando informações pessoais
 
-<div id='editando'/> 
+<div id='editando'></div>
 ### Editando postagens
 
-<div id='melhorando'/>
+<div id='melhorando'></div>
 ### Melhorando a experiência do usuário utilizando CSS 
 
-* ad
-
-* asd
-
-* asd
-
-* asd
-
-
-# TITLE:title
-
-asdasd asda sd asd
-
-# title
-
-adasdasdasd
-
-## title
-
-asdasdasd
-
-### title
-
-asdasasd
-
-#### title
-
-asdasdasd
-
-##### title
-
-asdasdad
-
-###### title
-
-asdasda 
-
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-
-## title
-
-
-### CUIDADO: título de tamanho h3
-
-
-Jekyll also offers powerful support for code snippets:
-
-> **DICA:** esse texto pode ser usado como uma dica
-
- <div id='id-section1'/> 
-
-## Section 1 
-
-<div id='id-section2'/> 
-
-## Section 2
 
 <div class="info">Info message</div>
 
@@ -163,7 +104,6 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
 
@@ -173,7 +113,6 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
 
@@ -183,7 +122,6 @@ def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
 {% include icon-flickr.svg %}
