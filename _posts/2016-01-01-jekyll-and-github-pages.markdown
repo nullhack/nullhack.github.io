@@ -86,7 +86,7 @@ Para mais informações, leia a postagem completa!
 <div id='melhorando'></div>
 ### Melhorando a experiência do usuário utilizando CSS 
 
-Para criar tags personalizadas, podemos alterar o arquivo `GITHUBUSER.github.io/css/main.scss`. Abaixo, estão alguns exemplos de folha de estilos para criação de algumas TAGs personalizadas utilizadas nesta página:
+Para criar tags personalizadas, podemos alterar o arquivo `GITHUBUSER.github.io/css/main.scss`. Abaixo estão alguns exemplos de folha de estilos para criação de algumas tags personalizadas utilizadas nesta página:
 
 
 ```css
@@ -141,12 +141,16 @@ Utilizando a tag `<div class="info">Info message</div>`
 
 Utilizando a tag `<div class="bash">Bash</div>`
 <div class="bash">Bash</div>
+```txt
 Criamos uma barra informativa que pode ser útil para identificar linhas de código.
+```
 
-A tag `<div class="summary">Mensagem</div>` pode ser útil para criar Títulos personalizados, como abaixo:
+A tag `<div class="summary">Mensagem</div>` pode ser útil para criar cabeçalhos personalizados como abaixo:
 <div class="summary"> Insira um título criativo aqui!  =D</div>
 
-Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamente desta aqui > ![INFO](https://github.com/nullhack/nullhack.github.io/blob/master/css/info.png)
+Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamente desta aqui:
+
+![INFO](https://github.com/nullhack/nullhack.github.io/blob/master/css/info.png)
 
 ---
 
@@ -155,7 +159,7 @@ Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamen
 
 * https://milanaryal.com/2015/writing-on-github-pages-and-jekyll-using-markdown/
 * http://www.jankoatwarpspeed.com/css-message-boxes-for-different-message-types/
-* http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
+* [http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960][icons-knob]
  
 
 [icons-knob]:http://itweek.deviantart.com/art/Knob-Buttons-Toolbar-icons-73463960
