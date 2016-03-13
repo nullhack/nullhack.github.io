@@ -144,9 +144,10 @@ Utilizando a tag `<div class="bash">Bash</div>`
 Criamos uma barra informativa que pode ser útil para identificar linhas de código.
 
 A tag `<div class="summary">Mensagem</div>` pode ser útil para criar Títulos personalizados, como abaixo:
-<div class="bash">Insira um título criativo aqui!  =D</div>
+<div class="summary"> Insira um título criativo aqui!  =D</div>
 
 Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou copiando diretamente desta aqui > ![INFO](https://github.com/nullhack/nullhack.github.io/blob/master/css/info.png)
+
 ---
 
 
