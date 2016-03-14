@@ -148,7 +148,7 @@ Criamos uma barra informativa que pode ser útil para identificar linhas de cód
 A tag `<div class="summary">Mensagem</div>` pode ser útil para criar cabeçalhos personalizados como abaixo:
 <div class="summary"> Insira um título criativo aqui!  =D</div>
 
-Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou aqui: ![INFO]({{ site.url }}/css/info.png) ![SUCCESS]({{ site.url }}/css/success.png) ![WARNING]({{ site.url }}/css/warning.png) ![ERROR](css/error.png)
+Os ícones utilizados podem ser obtidos [aqui][icons-knob] ou aqui: ![INFO]({{ site.url }}/css/info.png) ![SUCCESS]({{ site.url }}/css/success.png) ![WARNING]({{ site.url }}/css/warning.png) ![ERROR]({{ site.url }}/css/error.png)
 
 ---
 
