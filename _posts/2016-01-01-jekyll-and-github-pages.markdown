@@ -190,10 +190,10 @@ Para inserção de títulos, links, imagens e outros marcadores de texto, utiliz
 ###### Cabeçalho de tamanho 6
 ```
 
-## Cabeçalho de tamanho 2
-### Cabeçalho de tamanho 3
-...
-###### Cabeçalho de tamanho 6
+> ## Cabeçalho de tamanho 2
+> ### Cabeçalho de tamanho 3
+> ...
+> ###### Cabeçalho de tamanho 6
 
 #### - Ênfase
 
