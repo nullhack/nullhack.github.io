@@ -10,7 +10,7 @@ keywords: vim
 summary: "Using vim as hexeditor for binary files"
 ---
 
-<div class="summary">Ideias</div>
+<div class="objectives">Resumo</div>
 
 O vim não tem suporte por padrão à codificação hexadecimal derivada de arquivos binários, para obter este resultado temos que fazer uma pequena gambiarra, tranformamos o conteúdo em HEX e em seguida desviamos o fluxo para o arquivo corrente, como exemplificado abaixo:
 
