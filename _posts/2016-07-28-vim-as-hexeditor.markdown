@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "Utilizando vim como hexeditor para edição de arquivos binários"
 date:   2016-07-28 18:13:12 -0200
 categories: [vim]
 audience: programmers

@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "Jekyll+github pages"
-date:   2100-01-01 02:13:12 -0200
+layout: %post
+title:  "title"
+date:   %2100-01-01 02:13:12 -0200
 categories: [jekyll, github]
 audience: bloggers, programmers, githubers
 tags: [tutorial, jekyll, github-pages]
